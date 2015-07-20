@@ -1,8 +1,13 @@
 # Treyarch
-Bolivar Cortes 
-Viviana Castillo
-Reynaldo Villarreal 
-Abraham Gil
-Proyecto de Inteligencia Artificial Grupo Treyarch
-En este proyecto se trato de crear un sujeto inteligente para que pudiera tomar decisiones correctas dentro del juego. 
-El sujeto camina, salta depediendo de las opciones que le presente el terreno. 
+
+- Bolivar Cortes 
+- Viviana Castillo
+- Reynaldo Villarreal 
+- Abraham Gil
+
+Professor : Msc. Ariel Vernaza G.
+
+Machine Learning Final Project (INF-513) 
+**Grupo Treyarch**
+
+This project is about an artificial agent that can move by itself in a 2d Platform enviroment, like a platforms game. The agent walk and jump, and his behaviour is based in the enviroment.
